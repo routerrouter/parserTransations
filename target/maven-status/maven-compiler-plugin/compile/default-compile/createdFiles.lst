@@ -1,0 +1,16 @@
+com/bycoders/parsertransations/model/Tipo.class
+com/bycoders/parsertransations/ServletInitializer.class
+com/bycoders/parsertransations/model/Transacao.class
+com/bycoders/parsertransations/config/WebConfig.class
+com/bycoders/parsertransations/constante/ParseConstante.class
+com/bycoders/parsertransations/service/ParserTransationService.class
+com/bycoders/parsertransations/service/ParserTransationServiceImpl.class
+com/bycoders/parsertransations/exception/ApiErrorResponse.class
+com/bycoders/parsertransations/model/dto/TransacaoSaldoDto.class
+com/bycoders/parsertransations/repository/TransacaoRepository.class
+com/bycoders/parsertransations/repository/TipoRepository.class
+com/bycoders/parsertransations/model/dto/TransacaoDto.class
+com/bycoders/parsertransations/model/PageInfo.class
+com/bycoders/parsertransations/controller/ParserTransationController.class
+com/bycoders/parsertransations/ParserTransationsApplication.class
+com/bycoders/parsertransations/model/enums/Natureza.class

@@ -1,0 +1,16 @@
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/ParserTransationsApplication.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/config/WebConfig.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/controller/ParserTransationController.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/model/Tipo.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/service/ParserTransationServiceImpl.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/model/dto/TransacaoSaldoDto.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/ServletInitializer.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/repository/TransacaoRepository.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/model/Transacao.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/model/PageInfo.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/model/dto/TransacaoDto.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/service/ParserTransationService.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/constante/ParseConstante.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/repository/TipoRepository.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/exception/ApiErrorResponse.java
+/home/itfaowk060/Música/desafio-dev/parserTransations/src/main/java/com/bycoders/parsertransations/model/enums/Natureza.java

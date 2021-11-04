@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS "tipo"
+(
+	id SERIAL  PRIMARY KEY,
+	descricao VARCHAR(250) NOT NULL,
+	natureza VARCHAR(250) NOT NULL,
+	sinal VARCHAR(2) NOT NULL
+	
+);
